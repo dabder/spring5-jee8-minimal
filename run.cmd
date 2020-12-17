@@ -1,0 +1,1 @@
+mvnw cargo:run
